@@ -26,4 +26,10 @@
         <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
         <item name="fullscreenTextColor">@color/light_blue_A200</item>
     </style>
+    <style name="CustomTheme" parent="Theme.AppCompat">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#ED4C67</item>
+        <item name="colorPrimaryDark">#6F1E51</item>
+        <item name="android:windowBackground">@color/test</item>
+    </style>
 </resources>
