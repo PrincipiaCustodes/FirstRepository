@@ -12,11 +12,7 @@
         <activity
             android:name=".MainActivity"
             android:label="Principia"
-<<<<<<< HEAD
             android:exported="true">
-=======
-            android:exported="true" >
->>>>>>> e3fb6a24f1a5b2d2c296ab574d0b5ed4813c1e1a
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
