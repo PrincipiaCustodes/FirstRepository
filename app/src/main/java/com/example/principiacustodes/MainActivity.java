@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity {
     /*final Button button0 = (Button)findViewById(R.id.button0);
     final Button button1 = (Button)findViewById(R.id.button1);*/
 
