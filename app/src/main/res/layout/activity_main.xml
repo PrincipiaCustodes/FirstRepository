@@ -7,9 +7,15 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button0"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Сlick me!"
         android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No! Click me!"
+        android:layout_gravity="bottom"/>
 </FrameLayout>
